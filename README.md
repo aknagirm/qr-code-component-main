@@ -24,9 +24,11 @@ This is a practice demo for a QR code application, configured with just html and
 ### Screenshot
 
 Desktop preview
+
 ![Desktop image](./design/my-desktop-image.png)
 
 Mobile preview
+
 ![Desktop image](./design/my-mobile-image.png)
 
 
